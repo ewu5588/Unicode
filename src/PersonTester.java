@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class PersonTester {
 
     public static void main(String[] args) {
-
+        //test 5436
         System.out.print("Enter your first name: ");
         Scanner in = new Scanner(System.in);
         String firstName = in.next();
